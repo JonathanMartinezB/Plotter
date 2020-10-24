@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef610a8c-1d88-4889-b93d-f07908487382" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Plotter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="JonathanMartinezB &lt;66090336+jonathanmartinezb@users.noreply.github.com&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/JonathanMartinezB/Plotter" />
+      </set>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/almasaeed2010/adminlte" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1jHlzBXHy1eQVow4sQHu0BkVIgK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Plotter_Definitivo2" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef610a8c-1d88-4889-b93d-f07908487382" name="Default Changelist" comment="" />
+      <created>1603469157880</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603469157880</updated>
+      <workItem from="1603469159076" duration="1657000" />
+      <workItem from="1603499000520" duration="10000" />
+      <workItem from="1603499062264" duration="317000" />
+    </task>
+    <task id="LOCAL-00001" summary="Creación Carpetas:&#10;- App/Controllers&#10;- App/Models&#10;- views">
+      <created>1603469564652</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603469564652</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Creación Carpetas:&#10;- App/Controllers&#10;- App/Models&#10;- views">
+      <created>1603469746275</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603469746275</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Creación Carpetas:&#10;- App/Controllers&#10;- App/Models&#10;- views">
+      <created>1603470314078</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603470314078</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Creación Carpetas:&#10;- App/Controllers&#10;- App/Models&#10;- views">
+      <created>1603470362385</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603470362385</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Creación Carpetas:&#10;- App/Controllers&#10;- App/Models&#10;- views">
+      <created>1603470399149</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603470399149</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Creación clase:&#10;Persona&#10;creación archivo:&#10;test Persona">
+      <created>1603470645887</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603470645887</updated>
+    </task>
+    <task id="LOCAL-00007" summary="&#10;creación archivo:&#10;index.php">
+      <created>1603470791897</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1603470791897</updated>
+    </task>
+    <task id="LOCAL-00008" summary="&#10;creación archivo:&#10;juas.php">
+      <created>1603499162405</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1603499162405</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Creación Carpetas:&#10;- App/Controllers&#10;- App/Models&#10;- views" />
+    <MESSAGE value="Creación clase:&#10;Persona&#10;creación archivo:&#10;test Persona" />
+    <MESSAGE value="&#10;creación archivo:&#10;index.php" />
+    <MESSAGE value="&#10;creación archivo:&#10;juas.php" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;creación archivo:&#10;juas.php" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603470161238">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1603470161238" />
+    <state x="514" y="0" key="CommitChangelistDialog2" timestamp="1603499161350">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="514" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1603499161350" />
+    <state x="459" y="276" key="ComposerInitDialogKey" timestamp="1603469236969">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="459" y="276" key="ComposerInitDialogKey/0.0.1366.728@0.0.1366.728" timestamp="1603469236969" />
+    <state x="128" y="55" key="DiffContextDialog" timestamp="1603470107467">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="128" y="55" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1603470107467" />
+    <state x="561" y="262" key="Github.ShareDialog" timestamp="1603469948415">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="561" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1603469948415" />
+    <state x="495" y="87" key="NewPhpClassDialog" timestamp="1603470536547">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="495" y="87" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1603470536547" />
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1603499119189">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1603499119189" />
+    <state x="518" y="66" key="RollbackChangesDialog" timestamp="1603470044022">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="518" y="66" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1603470044022" />
+    <state x="505" y="247" key="VCS.ChangelistChooser" timestamp="1603470017849">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="505" y="247" key="VCS.ChangelistChooser/0.0.1366.728@0.0.1366.728" timestamp="1603470017849" />
+    <state x="275" y="84" key="Vcs.Push.Dialog.v2" timestamp="1603499163866">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="84" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1603499163866" />
+    <state x="546" y="98" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1603469673149">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="546" y="98" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1366.728@0.0.1366.728" timestamp="1603469673149" />
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603499265353">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1603499265353" />
+    <state x="390" y="0" width="585" height="728" key="find.popup" timestamp="1603499106355">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="0" width="585" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1603499106355" />
+  </component>
+</project>
