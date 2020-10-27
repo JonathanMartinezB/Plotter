@@ -27,11 +27,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef610a8c-1d88-4889-b93d-f07908487382" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Plotter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/partials/check_login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/partials/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/partials/head_imports.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/partials/navbar_customization.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/partials/routes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/partials/scripts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/partials/sliderbar_main_menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/public/Spanish.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/public/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/public/img/AdminLTELogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/public/img/Dev-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/public/img/Dev-icon-vector-01.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/public/img/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/public/img/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/public/img/weber-icon-large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/public/img/weber-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/public/js/main.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/juas.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,14 +135,15 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Plotter_Definitivo2" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -141,7 +157,8 @@
       <updated>1603469157880</updated>
       <workItem from="1603469159076" duration="1657000" />
       <workItem from="1603499000520" duration="10000" />
-      <workItem from="1603499062264" duration="317000" />
+      <workItem from="1603499062264" duration="1247000" />
+      <workItem from="1603836546027" duration="584000" />
     </task>
     <task id="LOCAL-00001" summary="Creación Carpetas:&#10;- App/Controllers&#10;- App/Models&#10;- views">
       <created>1603469564652</created>
@@ -199,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603499162405</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="&#10;Agregar Archivos .idea">
+      <created>1603499616302</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1603499616302</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,21 +256,23 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Creación Carpetas:&#10;- App/Controllers&#10;- App/Models&#10;- views" />
     <MESSAGE value="Creación clase:&#10;Persona&#10;creación archivo:&#10;test Persona" />
     <MESSAGE value="&#10;creación archivo:&#10;index.php" />
     <MESSAGE value="&#10;creación archivo:&#10;juas.php" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;creación archivo:&#10;juas.php" />
+    <MESSAGE value="&#10;Agregar Archivos .idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;Agregar Archivos .idea" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603470161238">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1603470161238" />
-    <state x="514" y="0" key="CommitChangelistDialog2" timestamp="1603499161350">
+    <state x="514" y="0" key="CommitChangelistDialog2" timestamp="1603499615213">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="514" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1603499161350" />
+    <state x="514" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1603499615213" />
     <state x="459" y="276" key="ComposerInitDialogKey" timestamp="1603469236969">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -275,18 +301,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="505" y="247" key="VCS.ChangelistChooser/0.0.1366.728@0.0.1366.728" timestamp="1603470017849" />
-    <state x="275" y="84" key="Vcs.Push.Dialog.v2" timestamp="1603499163866">
+    <state x="275" y="84" key="Vcs.Push.Dialog.v2" timestamp="1603499619175">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="84" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1603499163866" />
+    <state x="275" y="84" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1603499619175" />
     <state x="546" y="98" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1603469673149">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="546" y="98" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1366.728@0.0.1366.728" timestamp="1603469673149" />
-    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603499265353">
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603836819978">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1603499265353" />
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1603836819978" />
     <state x="390" y="0" width="585" height="728" key="find.popup" timestamp="1603499106355">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
