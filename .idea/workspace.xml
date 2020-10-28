@@ -27,26 +27,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef610a8c-1d88-4889-b93d-f07908487382" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/views/partials/check_login.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/partials/footer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/partials/head_imports.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/partials/navbar_customization.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/partials/routes.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/partials/scripts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/partials/sliderbar_main_menu.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/public/Spanish.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/public/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/public/img/AdminLTELogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/public/img/Dev-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/public/img/Dev-icon-vector-01.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/public/img/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/public/img/user.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/public/img/weber-icon-large.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/public/img/weber-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/public/js/main.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Controllers/PersonaController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Models/GeneralFunctions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/modules/persona/create.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/modules/persona/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/modules/persona/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/modules/persona/show.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/juas.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/BasicModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/BasicModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Persona.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Persona.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/partials/sliderbar_main_menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/partials/sliderbar_main_menu.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,6 +127,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Plotter_Definitivo2" />
@@ -144,6 +135,7 @@
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -158,7 +150,7 @@
       <workItem from="1603469159076" duration="1657000" />
       <workItem from="1603499000520" duration="10000" />
       <workItem from="1603499062264" duration="1247000" />
-      <workItem from="1603836546027" duration="584000" />
+      <workItem from="1603836546027" duration="10619000" />
     </task>
     <task id="LOCAL-00001" summary="Creación Carpetas:&#10;- App/Controllers&#10;- App/Models&#10;- views">
       <created>1603469564652</created>
@@ -223,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603499616302</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="&#10;Agregan carpetas en views:&#10;- modules/persona&#10;- partials&#10;- public/css&#10;- public/img&#10;- publix/js">
+      <created>1603837258513</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1603837258513</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,21 +261,34 @@
     <MESSAGE value="&#10;creación archivo:&#10;index.php" />
     <MESSAGE value="&#10;creación archivo:&#10;juas.php" />
     <MESSAGE value="&#10;Agregar Archivos .idea" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;Agregar Archivos .idea" />
+    <MESSAGE value="&#10;Agregan carpetas en views:&#10;- modules/persona&#10;- partials&#10;- public/css&#10;- public/img&#10;- publix/js" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;Agregan carpetas en views:&#10;- modules/persona&#10;- partials&#10;- public/css&#10;- public/img&#10;- publix/js" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603470161238">
+    <state x="390" y="7" key="#PHP" timestamp="1603849553081">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1603470161238" />
-    <state x="514" y="0" key="CommitChangelistDialog2" timestamp="1603499615213">
+    <state x="390" y="7" key="#PHP/0.0.1366.728@0.0.1366.728" timestamp="1603849553081" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603841677871">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="514" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1603499615213" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1603841677871" />
+    <state x="488" y="46" key="#com.intellij.ide.util.MemberChooser" timestamp="1603843394811">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="46" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1603843394811" />
+    <state x="514" y="0" key="CommitChangelistDialog2" timestamp="1603837255465">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="514" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1603837255465" />
     <state x="459" y="276" key="ComposerInitDialogKey" timestamp="1603469236969">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="459" y="276" key="ComposerInitDialogKey/0.0.1366.728@0.0.1366.728" timestamp="1603469236969" />
+    <state width="254" height="195" key="DatabaseViewActions_Filter" timestamp="1603841793185">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="254" height="195" key="DatabaseViewActions_Filter/0.0.1366.728@0.0.1366.728" timestamp="1603841793185" />
     <state x="128" y="55" key="DiffContextDialog" timestamp="1603470107467">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -285,10 +297,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="561" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1603469948415" />
-    <state x="495" y="87" key="NewPhpClassDialog" timestamp="1603470536547">
+    <state width="218" height="457" key="HiddenNamespacesPopup" timestamp="1603841709001">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="495" y="87" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1603470536547" />
+    <state width="218" height="457" key="HiddenNamespacesPopup/0.0.1366.728@0.0.1366.728" timestamp="1603841709001" />
+    <state x="495" y="87" key="NewPhpClassDialog" timestamp="1603845251655">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="495" y="87" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1603845251655" />
     <state x="517" y="287" key="NewPhpFileDialog" timestamp="1603499119189">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -301,10 +317,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="505" y="247" key="VCS.ChangelistChooser/0.0.1366.728@0.0.1366.728" timestamp="1603470017849" />
-    <state x="275" y="84" key="Vcs.Push.Dialog.v2" timestamp="1603499619175">
+    <state x="275" y="84" key="Vcs.Push.Dialog.v2" timestamp="1603837266176">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="84" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1603499619175" />
+    <state x="275" y="84" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1603837266176" />
+    <state x="263" y="19" key="com.intellij.database.dbimport.ImportDialog" timestamp="1603841768624">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="19" key="com.intellij.database.dbimport.ImportDialog/0.0.1366.728@0.0.1366.728" timestamp="1603841768624" />
     <state x="546" y="98" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1603469673149">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -317,5 +337,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="390" y="0" width="585" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1603499106355" />
+    <state x="400" y="135" key="refactoring.ChangeSignatureDialog" timestamp="1603845445450">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="400" y="135" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1603845445450" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1603844589161">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1603844589161" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1603848416530">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1603848416530" />
   </component>
 </project>
